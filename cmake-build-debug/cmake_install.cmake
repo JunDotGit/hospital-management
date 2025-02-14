@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jun/CLionProjects/Final Project
+# Install script for directory: C:/Users/mibju/BCIT Course file/Term 2/Comp 2510 Procedural..Source code/Final Project/hospital-management
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/Jun/CLionProjects/Final Project/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/mibju/BCIT Course file/Term 2/Comp 2510 Procedural..Source code/Final Project/hospital-management/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
